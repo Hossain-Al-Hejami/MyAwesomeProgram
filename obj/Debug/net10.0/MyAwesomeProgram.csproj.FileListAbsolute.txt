@@ -1,0 +1,14 @@
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/bin/Debug/net10.0/MyAwesomeProgram
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/bin/Debug/net10.0/MyAwesomeProgram.deps.json
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/bin/Debug/net10.0/MyAwesomeProgram.runtimeconfig.json
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/bin/Debug/net10.0/MyAwesomeProgram.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/bin/Debug/net10.0/MyAwesomeProgram.pdb
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.AssemblyInfoInputs.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.AssemblyInfo.cs
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.csproj.CoreCompileInputs.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/refint/MyAwesomeProgram.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.pdb
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/MyAwesomeProgram.genruntimeconfig.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/MyAwesomeProgram/obj/Debug/net10.0/ref/MyAwesomeProgram.dll
